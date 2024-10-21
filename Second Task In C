@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+  
 int main() {
     int number_to_guess, user_guess, attempts = 0;
 
